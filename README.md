@@ -30,7 +30,7 @@
 
 ---
 
-
+<img align="left" alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedabb104&show_icons=true&theme=radical">
 
 [website]: https://ahmedabb104.github.io/
 [linkedin]: https://linkedin.com/in/ahmedabbascs
