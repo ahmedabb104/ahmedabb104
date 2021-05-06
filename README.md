@@ -5,7 +5,7 @@
 
 ## I'm a first year student and aspiring developer!
 
-- 🌱 I’m currently learning everything I find interesting
+- 🧠 I’m currently learning everything I find interesting
 - ✔ I’ll be looking for internships in Summer 2022
 - 🎯 2021 Goals: Learn MERN stack ⚛️
 
