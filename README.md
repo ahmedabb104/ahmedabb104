@@ -2,7 +2,7 @@
 
 
 
-## I'm a computer science student and aspiring developer!
+## I'm a computer science student and aspiring developer.
 
 - 🧠 I’m currently learning everything I find interesting
 - ✔ I’ll be looking for internships in Summer 2022
