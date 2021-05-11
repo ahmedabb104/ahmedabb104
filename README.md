@@ -1,6 +1,5 @@
 ### Hi there, I'm [Ahmed][website] 👋
 
-[![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fahmedabb104.github.io/portfolio)](https://ahmedabb104.github.io/portfolio/)
 
 
 ## I'm a computer science student and aspiring developer!
