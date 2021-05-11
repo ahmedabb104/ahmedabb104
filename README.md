@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ahmed][website] 👋
 
-[![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fahmedabb104.github.io)](https://ahmedabb104.github.io/)
+[![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fahmedabb104.github.io)](https://ahmedabb104.github.io/portfolio/)
 
 
 ## I'm a computer science student and aspiring developer!
@@ -33,6 +33,6 @@
 
 <img align="left" alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedabb104&show_icons=true&theme=radical">
 
-[website]: https://ahmedabb104.github.io/
+[website]: https://ahmedabb104.github.io/portfolio/
 [linkedin]: https://linkedin.com/in/ahmedabbascs
 [email]: mailto:abbasa29@mcmaster.ca
