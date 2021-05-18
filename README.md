@@ -5,8 +5,7 @@
 ## I'm a computer science student and aspiring software engineer.
 
 - 🧠 I’m currently learning everything I find interesting
-- ✔ I’ll be looking for internships in Summer 2022
-- 🎯 2021 Goals: Learn MERN stack ⚛️
+- ✔ I’ll be looking for an internship in Summer 2022
 
 
 ### Connect with me:
