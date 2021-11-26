@@ -33,4 +33,4 @@
 
 [website]: https://ahmedabbas.me
 [linkedin]: https://linkedin.com/in/ahmedabbascs
-[email]: mailto:abbasa29@mcmaster.ca
+[email]: mailto:ahmedabb101@gmail.com
