@@ -5,8 +5,7 @@
 ## I'm a computer science student and aspiring software engineer.
 
 - 🧠 Learning everything I find interesting
-- ✔  Seeking Summer 2022 internships
-
+- ✔  Incoming summer 2022 intern at TD Bank
 
 ### Connect with me:
 
