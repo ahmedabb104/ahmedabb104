@@ -5,7 +5,7 @@
 ## I'm a computer science student and aspiring software engineer.
 
 - 🧠 Learning everything I find interesting
-- ✔  Software Engineer Intern at TD Bank during Summer 2022 
+- ✔  Service Router Test Dev Student at Nokia during Summer 2023 
 
 ### Connect with me:
 
