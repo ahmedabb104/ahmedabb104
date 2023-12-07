@@ -2,7 +2,7 @@
 
 
 
-## I'm a computer science student and aspiring software engineer.
+## Student of CS and software engineer.
 
 - 🧠 Learning everything I find interesting
 - ✔  Service Router Test Dev Student at Nokia during Summer 2023 
