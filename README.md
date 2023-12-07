@@ -5,7 +5,7 @@
 ## Student of CS and software engineer.
 
 - 🧠 Learning everything I find interesting
-- ✔  Service Router Test Dev Student at Nokia during Summer 2023 
+- ✔  Service Router Platform Test Dev Student at Nokia during Summer 2023 
 
 ### Connect with me:
 
