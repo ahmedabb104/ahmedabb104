@@ -2,7 +2,7 @@
 
 
 
-## Student of CS and software engineer.
+## Student of CS and upcoming software engineer.
 
 - 🧠 Learning everything I find interesting
 - ✔  Service Router Platform Test Dev Student at Nokia during Summer 2023 
