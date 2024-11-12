@@ -5,7 +5,7 @@
 ## Looking for Data Science/Machine Learning co-op positions for Summer 2025!
 
 - 📚 Master of Data Science and AI student at University of Waterloo
-  
+- 🧠 I'm currently learning ML and neural networks
 - ✔  Summer 2024: QA Engineer Co-op at Nokia
 - ✔  Summer 2023: Service Router Platform Test Dev Co-op at Nokia
 - ✔  Summer 2022: Software Engineer Intern at TD Bank
