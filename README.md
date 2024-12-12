@@ -5,7 +5,7 @@
 ## Looking for Data Science/Machine Learning co-op positions for Summer 2025!
 
 - 📚 Master of Data Science and AI student at University of Waterloo
-- 🧠 I'm currently learning ML and neural networks
+- 🧠 I'm currently learning LLMs
 - ✔ Previously I've been a Software and QA intern @ Nokia & TD Bank 
 
 ### :mailbox:Connect with me:
