@@ -5,7 +5,7 @@
 ## Looking for Data Science/Machine Learning co-op positions for Summer 2025!
 
 - 📚 Master of Data Science and AI student at University of Waterloo
-- 🧠 I'm currently learning LLMs
+- 🧠 I'm currently learning NLP and EDA
 - ✔ Previously I've been a Software and QA intern @ Nokia & TD Bank 
 
 ### :mailbox:Connect with me:
@@ -23,7 +23,7 @@
     </p>
     <p >
       <a>
-        <img src="https://skillicons.dev/icons?i=sql,js,react,flask,postgres" />
+        <img src="https://skillicons.dev/icons?i=aws,sql,js,react,flask,postgres" />
       </a>
     </p>
   </div>
