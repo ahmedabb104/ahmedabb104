@@ -2,7 +2,7 @@
 
 
 
-## Looking for Data Science/Machine Learning co-op positions for Summer 2025!
+## Looking for a Machine Learning or Data Analyst co-op position for Summer 2025!
 
 - 📚 Master of Data Science and AI student at University of Waterloo
 - 🧠 I'm currently learning EDA, data engineering, and NLP
