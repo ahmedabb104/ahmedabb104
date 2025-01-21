@@ -23,7 +23,7 @@
     </p>
     <p >
       <a>
-        <img src="https://skillicons.dev/icons?i=aws,js,react,flask,postgres" />
+        <img src="https://skillicons.dev/icons?i=mysql,react,flask" />
       </a>
     </p>
   </div>
