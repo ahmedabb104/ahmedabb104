@@ -5,13 +5,13 @@
 ## Looking for a Machine Learning or Data Science co-op position for Summer 2025!
 
 - 📚 Master of Data Science and AI student at University of Waterloo
-- 🧠 I'm currently learning EDA, data engineering, and neural networks
+- 🧠 I'm currently learning EDA, data engineering, and deep learning architectures
 - ✔ Previously I've been a Software and QA intern @ Nokia & TD Bank 
 
 ### :mailbox:Connect with me:
 
- [![Gmail Badge](https://img.shields.io/badge/-Ahmed-grey?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:ahmedabb101@gmail.com)
- [![Linkedin Badge](https://img.shields.io/badge/-Ahmed-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedabbascs/)
+ [![Gmail Badge](https://skillicons.dev/icons?i=gmail)](mailto:ahmedabb101@gmail.com)
+ [![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmedabbascs/)
 
 
 ### Preferred Tools and Technologies:
