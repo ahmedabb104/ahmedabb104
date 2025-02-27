@@ -18,7 +18,7 @@
   <div>
     <p >
       <a>
-        <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" />
+        <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" />
       </a>
     </p>
     <p >
