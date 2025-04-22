@@ -2,10 +2,10 @@
 
 
 
-## Looking for a Machine Learning or Data Science co-op position for Summer 2025!
+## Data Scientist @ Thri5
 
 - 📚 Master of Data Science and AI student at University of Waterloo
-- 🧠 I'm currently learning EDA, data engineering, and deep learning architectures
+- 🧠 Always learning more about data engineering, analysis, and deep learning architectures
 - ✔ Previously I've been a Software and QA intern @ Nokia & TD Bank 
 
 ### :mailbox:Connect with me:
