@@ -5,7 +5,7 @@
 ## Data Scientist @ Thri5
 
 - 📚 Master of Data Science and AI student at University of Waterloo
-- 🧠 Always learning more about data engineering, analysis, and deep learning architectures
+- 🧠 Always learning more about data infrastucture, how to present data insights better, and how to build the most useful AI systems
 
 ### :mailbox:Connect with me:
 
@@ -22,7 +22,11 @@
     </p>
     <p >
       <a>
-        <img src="https://skillicons.dev/icons?i=mysql,react,flask" />
+        <img height="40" width="40" src="https://cdn.simpleicons.org/snowflake/29B5E8" />
+        &nbsp;&nbsp;&nbsp;
+        <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/4479A1" />
+        &nbsp;&nbsp;&nbsp;
+        <img height="40" width="40" src="https://cdn.simpleicons.org/apacheairflow/017CEE" />
       </a>
     </p>
   </div>
