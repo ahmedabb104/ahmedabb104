@@ -13,7 +13,7 @@
  [![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmedabbascs/)
 
 
-### Preferred Tools and Technologies:
+### Preferred Technologies:
   <div>
     <p >
       <a>
