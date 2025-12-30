@@ -4,8 +4,7 @@
 
 ## Data Scientist @ Thri5
 
-- 📚 Master of Data Science and AI student at University of Waterloo
-- 🧠 Always learning more about data infrastucture, how to present data insights better, and how to build the most useful AI systems
+🧠 Always learning more about data infrastucture, how to present data insights more clearly, and how to build useful AI systems
 
 ### :mailbox:Connect with me:
 
@@ -34,6 +33,6 @@
 ---
 
 
-[website]: https://ahmedabbas.me
+[website]: https://ahmedabbas.dev
 [linkedin]: https://linkedin.com/in/ahmedabbascs
 [email]: mailto:ahmedabb101@gmail.com
