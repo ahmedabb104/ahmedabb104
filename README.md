@@ -2,9 +2,13 @@
 
 
 
-## Data Scientist @ Thri5
+## AI/ML Engineer
 
-🧠 Always learning more about data infrastucture, how to present data insights more clearly, and how to build useful AI systems
+### Areas of Interest:
+- Reinforcement learning
+- Data analysis
+- Deep learning
+- MLOps and Data infrastructure
 
 ### :mailbox:Connect with me:
 
