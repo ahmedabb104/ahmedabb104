@@ -5,10 +5,15 @@
 ## AI/ML Engineer
 
 ### Areas of Interest:
+- Computer vision
 - Reinforcement learning
+- AI agents
+
+### Areas of Experience:
+- Machine learning
+- MLOps
 - Data analysis
-- Deep learning
-- MLOps and Data infrastructure
+- Business intelligence
 
 ### :mailbox:Connect with me:
 
