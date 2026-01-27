@@ -4,7 +4,7 @@
 
 ## AI/ML Engineer
 
-### Areas of Interest:
+### Areas of Interest (sorted by interest level):
 - Computer vision
 - Reinforcement learning
 - AI agents + Agent skills
