@@ -7,7 +7,7 @@
 ### Areas of Interest:
 - Computer vision
 - Reinforcement learning
-- AI agents
+- AI agents + Agent skills
 
 ### Areas of Experience:
 - Machine learning
