@@ -1,21 +1,23 @@
 # Hi, I'm Ahmed 👋
 
+⭐ **Data Scientist + ML Engineer** |📍 **Waterloo, Ontario**
 
+> Coding with vibes...perhaps cooking up a startup in silence (for now)
 
-## AI/ML Engineer
+## 🤓 Areas of Interest (sorted by interest level):
 
-### Areas of Interest (sorted by interest level):
 - Computer vision
 - Reinforcement learning
 - AI agents + Agent skills
 
-### Areas of Experience:
+## 🧠 Areas of Experience:
+
 - Machine learning
 - MLOps
 - Data analysis
 - Business intelligence
 
-### :mailbox:Connect with me:
+## 👯 Connect with me:
 
  [![Gmail Badge](https://skillicons.dev/icons?i=gmail)](mailto:ahmedabb101@gmail.com)
  [![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmedabbascs/)
