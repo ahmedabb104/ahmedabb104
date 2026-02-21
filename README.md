@@ -24,6 +24,7 @@
  [![Portfolio Badge](https://img.shields.io/badge/My%20Portfolio-brightgreen?style=for-the-badge
 )](https://ahmedabbas.dev/)
 
+> When I'm not learning or vibe coding, you can find me at the gym
 
 [website]: https://ahmedabbas.dev
 [linkedin]: https://linkedin.com/in/ahmedabbascs
