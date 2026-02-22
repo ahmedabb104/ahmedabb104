@@ -6,9 +6,9 @@
 
 ## 🤓 Areas of Interest (sorted by interest level):
 
-- Computer vision
+- Transformers and all the different modalities they can solve tasks for
 - Reinforcement learning
-- AI agents + Agent skills
+- Computer vision
 
 ## 🧠 Areas of Experience:
 
