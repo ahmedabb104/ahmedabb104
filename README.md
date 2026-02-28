@@ -6,7 +6,7 @@
 
 ## 🤓 Areas of Interest (sorted by interest level):
 
-- Transformers and all of the different modalities they can solve tasks for
+- LLMs and Agentic workflows
 - Reinforcement learning
 - Computer vision
 
