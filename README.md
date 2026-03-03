@@ -13,9 +13,9 @@
 ## 🧠 Areas of Experience:
 
 - Machine learning
+- Business intelligence
 - MLOps
 - Data analysis
-- Business intelligence
 
 ## 👯 Connect with me:
 
