@@ -2,8 +2,6 @@
 
 ⭐ **Data Scientist + ML Engineer** |📍 **Waterloo, Ontario**
 
-> Coding with vibes...perhaps cooking up a startup in silence (for now)
-
 ## 🤓 Areas of Interest (sorted by interest level):
 
 - LLMs and Agentic workflows
