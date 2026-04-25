@@ -4,8 +4,8 @@
 
 ## 🤓 Areas of Interest (sorted by interest level):
 
-- LLMs and Agentic workflows
-- Reinforcement learning
+- World models
+- Agent workflows
 - Computer vision
 
 ## 🧠 Areas of Experience:
