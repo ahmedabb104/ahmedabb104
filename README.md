@@ -2,20 +2,21 @@
 
 ⭐ **Data Scientist + ML Engineer** |📍 **Waterloo, Ontario**
 
-## 🤓 Areas of Interest (sorted by interest level):
-
-- World models
-- Agent workflows
-- Computer vision
-
-## 🧠 Areas of Experience:
+### 🧠 Areas of Experience:
 
 - Machine learning
-- Business intelligence
+- AI Agents
 - MLOps
-- Data analysis
+- Business intelligence
+- Data analysis + Stats
+  
+### 🤓 Areas I'm currently exploring:
 
-## 👯 Connect with me:
+- World models
+- VLMs
+- VLAS
+
+#### 👯 Connect with me:
 
  [![Gmail Badge](https://skillicons.dev/icons?i=gmail)](mailto:ahmedabb101@gmail.com)
  [![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmedabbascs/)
