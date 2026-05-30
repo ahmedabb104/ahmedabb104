@@ -1,16 +1,16 @@
 # Hi, I'm Ahmed 👋
 
-⭐ **Data Scientist + ML Engineer** |📍 **Waterloo, Ontario**
+⭐ **Data Scientist + AI/ML Engineer** |📍 **Toronto, Ontario**
 
-### 🧠 Areas of Experience:
+### Areas of Experience:
 
-- Machine learning
+- ML
 - AI Agents
 - MLOps
 - Business intelligence
-- Data analysis + Stats
+- Data analysis
   
-### 🤓 Areas I'm currently exploring:
+### Areas I'm currently exploring:
 
 - World models
 - VLMs
@@ -23,7 +23,7 @@
  [![Portfolio Badge](https://img.shields.io/badge/My%20Portfolio-brightgreen?style=for-the-badge
 )](https://ahmedabbas.dev/)
 
-> When I'm not learning or vibe coding, you can find me at the gym
+> When I'm not in vibe coding flow state, I'm probably at the gym
 
 [website]: https://ahmedabbas.dev
 [linkedin]: https://linkedin.com/in/ahmedabbascs
