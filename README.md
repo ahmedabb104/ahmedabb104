@@ -5,7 +5,7 @@
 ### Areas of Experience:
 
 - ML
-- AI Agents
+- Applied AI
 - MLOps
 - Business intelligence
 - Data analysis
