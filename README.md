@@ -1,11 +1,11 @@
 # Hi, I'm Ahmed 👋
 
-⭐ **Data Scientist + AI/ML Engineer** |📍 **Toronto, Ontario**
+⭐ **AI/ML Engineer + Data Scientist** |📍 **Toronto, Ontario**
 
 ### Areas of Experience:
 
-- ML
 - Applied AI
+- ML
 - MLOps
 - Business intelligence
 - Data analysis
