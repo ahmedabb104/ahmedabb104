@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed 👋
 
-⭐ **AI/ML Engineer + Data Scientist** |📍 **Toronto, Ontario**
+⭐ **Forward Deployed Engineer + AI/ML Engineer + Data Scientist** |📍 **Toronto, Ontario**
 
 #### 👯 Connect with me:
 
